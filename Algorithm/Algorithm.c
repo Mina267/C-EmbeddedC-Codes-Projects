@@ -239,9 +239,3 @@ void mergeSortedArrays(int *arr, int l, int m, int r)
     }
 }
 
-
-
-void array_HeapSorting(int *arr, int size)
-{
-
-}
