@@ -1,0 +1,29 @@
+/******* C and Embedded C project ************/
+
+
+C Programming (52 Hours)
+● Introduction to C Programming.
+● Structured Program Development in C.
+● C Data types and operators.
+● IF Statements and switch cases.
+● C Loops.
+● C functions.
+● C Pointers and Casting.
+● C Arrays.
+● C Strings.
+● Arrays of pointers vs 2D Arrays.
+● Bit wise operations.
+● Structures, Unions and Enumerations.
+● Bit-Fields and its usage.
+● C Preprocessor Directives.
+
+Embedded C Programming 
+● C Building process.
+● Error Types.
+● C Variable Scope and Lifetime.
+● Key words.
+● Startup code.
+● Memory Segments.
+● Pointer to function & Call back functions.
+● Stack and Stack test.
+● Boot loader.
