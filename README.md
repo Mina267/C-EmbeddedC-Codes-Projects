@@ -21,7 +21,7 @@ C Programming Application:
 
 ● C Strings.
 
-● Arrays of pointers vs 2D Arrays.
+● Arrays of pointers and 2D Arrays.
 
 ● Bit wise operations.
 
