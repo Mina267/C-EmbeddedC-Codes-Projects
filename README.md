@@ -1,9 +1,6 @@
 # C-EmbeddedC-Codes-Projects
 
-
 C Programming Application:
-
-● Introduction to C Programming.
 
 ● Structured Program Development in C.
 
@@ -29,4 +26,3 @@ C Programming Application:
 
 ● Bit-Fields.
 
-● C Preprocessor Directives.
